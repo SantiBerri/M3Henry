@@ -1,0 +1,24 @@
+header {
+  width: auto;
+}
+
+body {
+  background-image: url("../src/assets/images/fondo1.jpg");
+}
+
+#root {
+
+  margin: 0 auto;
+
+  text-align: center;
+}
+
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}

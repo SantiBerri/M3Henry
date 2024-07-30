@@ -1,0 +1,16 @@
+
+  .carousel {
+    width: 100%; /* Asegúrate de que el carousel ocupe todo el ancho disponible */
+  }
+  
+  .carousel-container {
+    width: 100%; /* Asegúrate de que el carousel ocupe todo el ancho disponible */
+    max-width: 800px; /* Definir un ancho máximo para el carousel */
+    margin: 0 auto; /* Centrar el carousel horizontalmente */
+  }
+  
+  .carousel-image {
+    width: 100%; /* Asegúrate de que las imágenes del carousel ocupen todo el ancho disponible */
+    height: 300px; /* Define una altura fija para las imágenes en el carousel */
+    object-fit: cover; /* Ajusta la imagen para cubrir completamente el contenedor sin distorsionar la relación de aspecto */
+  }

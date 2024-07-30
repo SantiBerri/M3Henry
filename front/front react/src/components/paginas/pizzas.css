@@ -1,0 +1,26 @@
+.pizzas-container {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+}
+
+.pizzas {
+  display: flex;
+  flex-direction: column;
+  gap: 20px; 
+  margin-top: 20px;
+}
+
+.pizza {
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: #121717;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.pizza-image {
+  width: 100px; 
+  height: auto;
+  margin-right: 20px; 
+}

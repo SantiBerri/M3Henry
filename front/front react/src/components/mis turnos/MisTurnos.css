@@ -1,0 +1,22 @@
+.mis-turnos-container {
+    margin-top: 20px;
+  }
+  
+  .turno-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .turno-item h3 {
+    margin: 0;
+  }
+  
+  .turno-item p {
+    margin: 5px 0;
+  }
+  
+  .empty-message {
+    font-style: italic;
+    color: #888;
+  }

@@ -1,0 +1,36 @@
+header {
+  background-color: #121717;
+  border-radius: 10px;
+}
+
+.logo {
+    margin-left: 10px;
+  }
+  
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+  }
+  
+.login {
+    margin-right: 10px;
+  }
+
+.ul {
+    display:flex;
+    justify-content: space-around;
+  }
+
+
+.btn-outline-secondary {
+  width: 175px; 
+  margin: 10px;
+}
+
+
+
+.logo img {
+  width: 150px;
+  margin-bottom: 5px;
+}
